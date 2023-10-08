@@ -15,8 +15,10 @@ const info = {
         "Regex",
         "MongoDB"
     ],
-    work : "Currently, I work as a freelance frontend developer, and I teach the Python programming language.",
-    learn : `I,m currently learning machine learning and image processing courses in the field of Python programming language,
+    work : "Currently, I work as a freelance frontend developer,
+             and teach the Python programming language.",
+    learn : `I,m currently learning machine learning and image processing
+            courses in the field of Python programming language,
             and also learning  and React in the field of web development.`
 }
 ```
