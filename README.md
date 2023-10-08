@@ -1,17 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm Soheil Feizi</h1>
+<h2>A little more about me...</h2>
 
-<!--
-**FeiziSoheil/FeiziSoheil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeiziSoheil&show_icons=true&theme=radical)
+```javascript
+const info = {
+    pronouns : "He" | "him",
+    langs : ["JavaScript" , "Python" , "HTML" , "Css " ],
+    tools : [
+        "React",
+        "Scikit learn",
+        "openCV",
+        "GitHub",
+        "Git",
+        "Bootstrap",
+        "Regex",
+        "MongoDB"
+    ],
+    work : "Currently, I work as a freelance frontend developer, and I teach the Python programming language.",
+    learn : `I,m currently learning machine learning and image processing courses in the field of Python programming language,
+            and also learning  and React in the field of web development.`
+}
+```
