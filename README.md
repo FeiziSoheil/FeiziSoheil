@@ -1,7 +1,5 @@
 <h1>Hi, I'm Soheil Feizi</h1>
-<!-- <h2 color='red'>A little more about me...</h2> -->
-
-##A little more about me...
+<h2 color='red'>A little more about me...</h2>
 
 ```javascript
 const info = {
